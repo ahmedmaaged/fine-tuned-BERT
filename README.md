@@ -1,7 +1,7 @@
 # Fine-Tuning BERT for Grammar Classification using the CoLA Dataset
 This repository contains code and instructions for fine-tuning BERT (Bidirectional Encoder Representations from Transformers) to classify the grammatical acceptability of English sentences. The model is trained and evaluated on the Corpus of Linguistic Acceptability (CoLA) dataset.
 
-#About the Dataset
+# About the Dataset
 
 Get the data: https://nyu-mll.github.io/CoLA/
 
